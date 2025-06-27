@@ -4,11 +4,11 @@
 #include<string>
 #include<vector>
 #include<map>
-
 #include<queue>
 #include<cstring>
 #include<cctype>
 using namespace std;
+
 struct Recruiter {
     string name;
     string location;
